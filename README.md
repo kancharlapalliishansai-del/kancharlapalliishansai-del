@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.E Electronics &Communication Engineering<br>Aspiring Embeded Systems Engineer passionate about creating use full projects<br>Skilled in Arduino IDE,MATLAB Simulation,Digital Electronics<br>Currently building real time working prototypes<br>Always learning,exploring and growing in Electronics Core Domians
+B.E Electronics & Communication Engineering<br>Aspiring Embeded Systems Engineer passionate about building industrial autamation projects <br>Skilled in Arduino IDE,MATLAB Simulation,Digital Electronics<br>Currently building real time working prototypes<br>Always learning,exploring and growing in Electronics Core Domians
 
 
 ## 🌐 Socials:
